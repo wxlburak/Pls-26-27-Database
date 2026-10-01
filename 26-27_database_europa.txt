@@ -1,0 +1,1888 @@
+// ============================================================================
+// PRO LEAGUE SOCCER (PLS) COMPLETE DATABASE 2026/2027
+// LEAGUES: TURKEY, ENGLAND, SPAIN, GERMANY, FRANCE, PORTUGAL, NETHERLANDS
+// STRICT PLS FORMATTING - FULL TEAM rosters
+// ============================================================================
+​// ==========================================
+// 1. TURKEY - TRENDYOL SÜPER LİG (18 TEAMS)
+// ==========================================
+​[LEAGUE: TURKEY - TRENDYOL SÜPER LİG 26/27]
+​[TEAM: GALATASARAY]
+COLOR: #A30000 / #FFB800
+SQUAD:
+​Fernando Muslera (GK, C)
+​Günay Güvenç (GK)
+​Davinson Sanchez (CB)
+​Victor Nelsson (CB)
+​Abdülkerim Bardakcı (CB)
+​Kaan Ayhan (RB)
+​Ismail Jakobs (LB)
+​Gabriel Sara (CM)
+​Lucas Torreira (CDM)
+​Kerem Demirbay (CM)
+​Barış Alper Yılmaz (RW)
+​Dries Mertens (CAM)
+​Hakim Ziyech (RW)
+​Roland Sallai (LW)
+​Yunus Akgün (LW)
+​Victor Osimhen (ST)
+​Mauro Icardi (ST)
+​Michy Batshuayi (ST)
+​[TEAM: FENERBAHÇE]
+COLOR: #001C55 / #FFE500
+SQUAD:
+​Dominik Livaković (GK)
+​İrfan Can Eğribayat (GK)
+​Alexander Djiku (CB)
+​Rodrigo Becão (CB)
+​Çağlar Söyüncü (CB)
+​Jayden Oosterwolde (LB)
+​Mert Müldür (RB)
+​Bright Osayi-Samuel (RB)
+​Sofyan Amrabat (CDM)
+​İsmail Yüksek (CDM)
+​Fred (CM)
+​Sebastian Szymański (CAM)
+​İrfan Can Kahveci (RW)
+​Cengiz Ünder (RW)
+​Allan Saint-Maximin (LW)
+​Dušan Tadić (LW, C)
+​Youssef En-Nesyri (ST)
+​Edin Džeko (ST)
+​Cenk Tosun (ST)
+​[TEAM: BEŞİKTAŞ]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Mert Günok (GK, C)
+​Ersin Destanoğlu (GK)
+​Gabriel Paulista (CB)
+​Felix Uduokhai (CB)
+​Tayyip Talha Sanuç (CB)
+​Arthur Masuaku (LB)
+​Jonas Svensson (RB)
+​Al-Musrati (CDM)
+​Gedson Fernandes (CM)
+​Cher Ndour (CM)
+​Alex Oxlade-Chamberlain (CM)
+​Rafa Silva (CAM)
+​Milot Rashica (RW)
+​Ernest Muçi (CAM)
+​Semih Kılıçsoy (LW)
+​Ciro Immobile (ST)
+​Mustafa Hekimoğlu (ST)
+​[TEAM: TRABZONSPOR]
+COLOR: #800020 / #6CACE4
+SQUAD:
+​Uğurcan Çakır (GK, C)
+​Muhammet Taha Tepe (GK)
+​Stefan Savić (CB)
+​Stefano Denswil (CB)
+​Batista Mendy (CDM)
+​Pedro Malheiro (RB)
+​Evren Eren Elmalı (LB)
+​John Lundstram (CDM)
+​Okay Yokuşlu (CDM)
+​Ozan Tufan (CM)
+​Enis Bardhi (CAM)
+​Edin Višća (RW)
+​Mislav Oršić (LW)
+​Anthony Nwakaeme (LW)
+​Simon Banza (ST)
+​Denis Drăguș (ST)
+​Enis Destan (ST)
+​[TEAM: BAŞAKŞEHİR]
+COLOR: #F36F21 / #002349
+SQUAD:
+​Muhammed Şengezer (GK)
+​Volkan Babacan (GK)
+​Léo Duarte (CB)
+​Jerome Opoku (CB)
+​Ousseynou Ba (CB)
+​Ömer Ali Şahiner (RB)
+​Lucas Lima (LB)
+​Onur Ergün (CDM)
+​Berat Özdemir (CDM)
+​Berkay Özcan (CM)
+​Deniz Türüç (RW)
+​Serdar Gürler (LW)
+​Davidson (LW)
+​Krzysztof Piątek (ST)
+​Philippe Keny (ST)
+​[TEAM: KASIMPAŞA]
+COLOR: #1E3A8A / #FFFFFF
+SQUAD:
+​Andreas Gianniotis (GK)
+​Sadık Çiftpınar (CB)
+​Kenneth Omeruo (CB)
+​Cláudio Winck (RB)
+​Yasin Özcan (LB)
+​Loret Sadiku (CDM)
+​Aytaç Kara (CM)
+​Antonín Barák (CAM)
+​Mamadou Fall (RW)
+​Mortadha Ben Ouanes (LW)
+​Nuno Da Costa (ST)
+​[TEAM: SİVASSPOR]
+COLOR: #ED1C24 / #FFFFFF
+SQUAD:
+​Djordje Nikolic (GK)
+​Uğur Çiftçi (LB)
+​Samba Camara (CB)
+​Noah Sonko Sundberg (CB)
+​Murat Paluli (RB)
+​Charis Charisis (CM)
+​Samuel Moutoussamy (CM)
+​Alex Pritchard (CAM)
+​Garry Rodrigues (RW)
+​Queensy Menig (LW)
+​Rey Manaj (ST)
+​[TEAM: ANTALYASPOR]
+COLOR: #E30613 / #FFFFFF
+SQUAD:
+​Abdullah Yiğiter (GK)
+​Veysel Sarı (CB, C)
+​Thalisson (CB)
+​Güray Vural (LB)
+​Mert Yılmaz (RB)
+​Erdal Rakip (CM)
+​Jakub Kałuziński (CM)
+​Sam Larsson (LW)
+​Sander van de Streek (CAM)
+​Andros Townsend (RW)
+​Adolfo Gaich (ST)
+​[TEAM: ALANYASPOR]
+COLOR: #F37021 / #008752
+SQUAD:
+​Ertuğrul Taşkıran (GK)
+​Fatih Aksoy (CB)
+​Furkan Bayır (CB)
+​Jure Balkovec (LB)
+​Florent Hadergjonaj (RB)
+​Richard (CDM)
+​Gaius Makouta (CM)
+​Efecan Karaca (RW, C)
+​Nicolas Janvier (CAM)
+​Loide Augusto (LW)
+​Sergio Córdova (ST)
+​[TEAM: RİZESPOR]
+COLOR: #005A9C / #008738
+SQUAD:
+​Tarık Çetin (GK)
+​Attila Mocsi (CB)
+​Husniddin Alikulov (CB)
+​Casper Højer (LB)
+​Muhammet Taha Şahin (RB)
+​Ibrahim Olawoyin (CM)
+​Giannis Papanikolaou (CDM)
+​Dal Varesanovic (CAM)
+​David Akintola (RW)
+​Altin Zeqiri (LW)
+​Ali Sowe (ST)
+​[TEAM: KONYASPOR]
+COLOR: #007A33 / #FFFFFF
+SQUAD:
+​Jakub Slowik (GK)
+​Adil Demirbağ (CB)
+​Filip Damjanovic (CB)
+​Guilherme Haubert (LB, C)
+​Nikola Boranijasevic (RB)
+​Marko Jevtovic (CDM)
+​Riechedly Bazoer (CDM)
+​Hamidou Keyta (RW)
+​Pedrinho (CAM)
+​Yusuf Erdoğan (LW)
+​Umut Nayir (ST)
+​[TEAM: GAZİANTEP FK]
+COLOR: #ED1C24 / #000000
+SQUAD:
+​Sokratis Dioudis (GK)
+​Arda Kızıldağ (CB)
+​Bruno Viana (CB)
+​Godfrey Stephen (LB)
+​Ömürcan Artan (RB)
+​Cyril Mandouki (CDM)
+​Alexandru Maxim (CAM, C)
+​Kacper Kozlowski (CM)
+​Deian Sorescu (RW)
+​Christopher Lungoyi (LW)
+​Kenan Kodro (ST)
+​[TEAM: KAYSERİSPOR]
+COLOR: #FFF100 / #ED1C24
+SQUAD:
+​Bilal Bayazit (GK)
+​Dimitrios Kolovetsios (CB)
+​Joseph Attamah (CB)
+​Lionel Carole (LB)
+​Gökhan Sazdağı (RB, C)
+​Kartal Yılmaz (CDM)
+​Mehdi Bourabia (CM)
+​Ali Karimi (CM)
+​Carlos Mane (RW)
+​Miguel Cardoso (LW)
+​Duckens Nazon (ST)
+​[TEAM: GÖZTEPE]
+COLOR: #FFF100 / #ED1C24
+SQUAD:
+​Mateusz Lis (GK)
+​Heliton (CB)
+​Koray Günter (CB)
+​Malcom Bokele (CB)
+​Djalma Silva (LB)
+​Ogün Bayrak (RB)
+​Anthony Dennis (CDM)
+​Isaac Solet (CM)
+​David Tijanic (CAM)
+​Romulo (ST)
+​Juan (ST)
+​[TEAM: EYÜPSPOR]
+COLOR: #7A0026 / #FFF100
+SQUAD:
+​Berke Özer (GK)
+​Luccas Claro (CB)
+​Robin Yalçın (CB)
+​Caner Erkin (LB, C)
+​Léo Dubois (RB)
+​Melih Kabasakal (CDM)
+​Samu Saiz (CAM)
+​Jonjo Shelvey (CM)
+​Emre Mor (RW)
+​Ahmed Kutucu (LW)
+​Mame Thiam (ST)
+​[TEAM: BODRUM FK]
+COLOR: #008752 / #FFFFFF
+SQUAD:
+​Diogo Sousa (GK)
+​Christophe Herelle (CB)
+​Ali Aytemur (CB)
+​Cenk Şen (LB)
+​Üzeyir Ergün (RB)
+​Ahmet Aslan (CDM)
+​Musah Mohammed (CM)
+​Fredy (CAM)
+​Taulant Seferi (LW)
+​Zdravko Dimitrov (RW)
+​George Puscas (ST)
+​[TEAM: HATAYSPOR]
+COLOR: #800000 / #FFFFFF
+SQUAD:
+​Erce Kardeşler (GK, C)
+​Guy-Marcelin Kilama (CB)
+​Francisco Calvo (CB)
+​Cemali Sertel (LB)
+​Kamil Ahmet Çörekçi (RB)
+​Lamine Diack (CDM)
+​Görkem Sağlam (CM)
+​Rui Pedro (CAM)
+​Joelson Fernandes (LW)
+​Rigoberto Rivas (RW)
+​Vincent Aboubakar (ST)
+​[TEAM: ADANA DEMİRSPOR]
+COLOR: #0055A5 / #00A3E0
+SQUAD:
+​Deniz Dönmezer (GK)
+​Semih Güler (CB, C)
+​Jovan Manev (CB)
+​Abdulsamet Burak (LB)
+​Arda Kurtulan (RB)
+​Maestro (CDM)
+​Tayfun Aydoğan (CM)
+​Ali Yavuz Kol (RW)
+​Nabil Alioui (LW)
+​Yusuf Sarı (RW)
+​Abat Aimbetov (ST)
+​// ==========================================
+// 2. ENGLAND - PREMIER LEAGUE (20 TEAMS)
+// ==========================================
+​[LEAGUE: ENGLAND - PREMIER LEAGUE 26/27]
+​[TEAM: MANCHESTER CITY]
+COLOR: #6CABDD / #FFFFFF
+SQUAD:
+​Ederson (GK)
+​Rúben Dias (CB)
+​Manuel Akanji (CB)
+​Josko Gvardiol (LB)
+​Kyle Walker (RB, C)
+​Rodri (CDM)
+​Mateo Kovačić (CM)
+​Kevin De Bruyne (CAM)
+​Phil Foden (RW)
+​Jack Grealish (LW)
+​Erling Haaland (ST)
+​[TEAM: ARSENAL]
+COLOR: #EF0107 / #FFFFFF
+SQUAD:
+​David Raya (GK)
+​William Saliba (CB)
+​Gabriel Magalhães (CB)
+​Riccardo Calafiori (LB)
+​Ben White (RB)
+​Declan Rice (CDM)
+​Mikel Merino (CM)
+​Martin Ødegaard (CAM, C)
+​Bukayo Saka (RW)
+​Gabriel Martinelli (LW)
+​Kai Havertz (ST)
+​[TEAM: LIVERPOOL]
+COLOR: #C8102E / #FFFFFF
+SQUAD:
+​Alisson Becker (GK)
+​Virgil van Dijk (CB, C)
+​Ibrahima Konaté (CB)
+​Andrew Robertson (LB)
+​Trent Alexander-Arnold (RB)
+​Ryan Gravenberch (CDM)
+​Alexis Mac Allister (CM)
+​Dominik Szoboszlai (CAM)
+​Mohamed Salah (RW)
+​Luis Díaz (LW)
+​Darwin Núñez (ST)
+​[TEAM: CHELSEA]
+COLOR: #034694 / #FFFFFF
+SQUAD:
+​Robert Sánchez (GK)
+​Levi Colwill (CB)
+​Wesley Fofana (CB)
+​Marc Cucurella (LB)
+​Malo Gusto (RB)
+​Moisés Caicedo (CDM)
+​Enzo Fernández (CM, C)
+​Cole Palmer (CAM)
+​Noni Madueke (RW)
+​Jadon Sancho (LW)
+​Nicolas Jackson (ST)
+​[TEAM: MANCHESTER UNITED]
+COLOR: #DA291C / #FFFFFF
+SQUAD:
+​André Onana (GK)
+​Matthijs de Ligt (CB)
+​Lisandro Martínez (CB)
+​Noussair Mazraoui (RB)
+​Luke Shaw (LB)
+​Manuel Ugarte (CDM)
+​Kobbie Mainoo (CM)
+​Bruno Fernandes (CAM, C)
+​Alejandro Garnacho (RW)
+​Marcus Rashford (LW)
+​Rasmus Højlund (ST)
+​[TEAM: TOTTENHAM HOTSPUR]
+COLOR: #132257 / #FFFFFF
+SQUAD:
+​Guglielmo Vicario (GK)
+​Micky van de Ven (CB)
+​Cristian Romero (CB, C)
+​Destiny Udogie (LB)
+​Pedro Porro (RB)
+​Yves Bissouma (CDM)
+​Pape Matar Sarr (CM)
+​James Maddison (CAM)
+​Dejan Kulusevski (RW)
+​Son Heung-min (LW)
+​Dominic Solanke (ST)
+​[TEAM: ASTON VILLA]
+COLOR: #95BFE5 / #670E36
+SQUAD:
+​Emiliano Martínez (GK)
+​Ezri Konsa (CB)
+​Pau Torres (CB)
+​Lucas Digne (LB)
+​Matty Cash (RB)
+​Amadou Onana (CDM)
+​Youri Tielemans (CM)
+​John McGinn (CM, C)
+​Leon Bailey (RW)
+​Jacob Ramsey (LW)
+​Ollie Watkins (ST)
+​[TEAM: NEWCASTLE UNITED]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Nick Pope (GK)
+​Fabian Schär (CB)
+​Sven Botman (CB)
+​Lewis Hall (LB)
+​Kieran Trippier (RB, C)
+​Bruno Guimarães (CDM)
+​Sandro Tonali (CM)
+​Joelinton (CM)
+​Anthony Gordon (LW)
+​Jacob Murphy (RW)
+​Alexander Isak (ST)
+​[TEAM: BRIGHTON & HOVE ALBION]
+COLOR: #0057B8 / #FFFFFF
+SQUAD:
+​Bart Verbruggen (GK)
+​Lewis Dunk (CB, C)
+​Jan Paul van Hecke (CB)
+​Pervis Estupiñán (LB)
+​Joël Veltman (RB)
+​Carlos Baleba (CDM)
+​Yasin Ayari (CM)
+​Georginio Rutter (CAM)
+​Kaoru Mitoma (LW)
+​Yankuba Minteh (RW)
+​Danny Welbeck (ST)
+​[TEAM: WEST HAM UNITED]
+COLOR: #7A263A / #1BB1E7
+SQUAD:
+​Alphonse Areola (GK)
+​Max Kilman (CB)
+​Jean-Clair Todibo (CB)
+​Emerson Palmieri (LB)
+​Aaron Wan-Bissaka (RB)
+​Edson Álvarez (CDM)
+​Tomás Souček (CM)
+​Lucas Paquetá (CAM)
+​Mohammed Kudus (RW)
+​Crysencio Summerville (LW)
+​Jarrod Bowen (ST, C)
+​[TEAM: BRENTFORD]
+COLOR: #E30613 / #FFFFFF
+SQUAD:
+​Mark Flekken (GK)
+​Ethan Pinnock (CB)
+​Nathan Collins (CB)
+​Kristoffer Ajer (RB)
+​Rico Henry (LB)
+​Christian Nørgaard (CDM, C)
+​Vitaly Janelt (CM)
+​Mikkel Damsgaard (CAM)
+​Bryan Mbeumo (RW)
+​Yoane Wissa (LW)
+​Igor Thiago (ST)
+​[TEAM: CRYSTAL PALACE]
+COLOR: #1B458F / #C41230
+SQUAD:
+​Dean Henderson (GK)
+​Marc Guéhi (CB, C)
+​Maxence Lacroix (CB)
+​Chris Richards (CB)
+​Tyrick Mitchell (LB)
+​Daniel Muñoz (RB)
+​Adam Wharton (CDM)
+​Jefferson Lerma (CM)
+​Eberechi Eze (CAM)
+​Ismaïla Sarr (RW)
+​Jean-Philippe Mateta (ST)
+​[TEAM: FULHAM]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Bernd Leno (GK)
+​Joachim Andersen (CB)
+​Calvin Bassey (CB)
+​Antonee Robinson (LB)
+​Timothy Castagne (RB)
+​Sander Berge (CDM)
+​Andreas Pereira (CM)
+​Emile Smith Rowe (CAM)
+​Adama Traoré (RW)
+​Alex Iwobi (LW)
+​Raúl Jiménez (ST)
+​[TEAM: BOURNEMOUTH]
+COLOR: #DA291C / #000000
+SQUAD:
+​Kepa Arrizabalaga (GK)
+​Marcos Senesi (CB)
+​Ilya Zabarnyi (CB)
+​Milos Kerkez (LB)
+​Julián Araujo (RB)
+​Lewis Cook (CDM)
+​Ryan Christie (CM)
+​Justin Kluivert (CAM)
+​Antoine Semenyo (RW)
+​Marcus Tavernier (LW)
+​Evanilson (ST)
+​[TEAM: EVERTON]
+COLOR: #003399 / #FFFFFF
+SQUAD:
+​Jordan Pickford (GK)
+​Jarrad Branthwaite (CB)
+​James Tarkowski (CB, C)
+​Vitaliy Mykolenko (LB)
+​Séamus Coleman (RB)
+​Idrissa Gueye (CDM)
+​James Garner (CM)
+​Abdoulaye Doucouré (CAM)
+​Jesper Lindstrøm (RW)
+​Dwight McNeil (LW)
+​Dominic Calvert-Lewin (ST)
+​[TEAM: WOLVERHAMPTON WANDERERS]
+COLOR: #FDB913 / #231F20
+SQUAD:
+​José Sá (GK)
+​Toti Gomes (CB)
+​Santiago Bueno (CB)
+​Rayan Aït-Nouri (LB)
+​Nélson Semedo (RB)
+​Mario Lemina (CDM, C)
+​João Gomes (CM)
+​Matheus Cunha (CAM)
+​Gonçalo Guedes (LW)
+​Rodrigo Gomes (RW)
+​Jørgen Strand Larsen (ST)
+​[TEAM: LEICESTER CITY]
+COLOR: #0053A0 / #FFFFFF
+SQUAD:
+​Mads Hermansen (GK)
+​Wout Faes (CB)
+​Caleb Okoli (CB)
+​Victor Kristiansen (LB)
+​James Justin (RB)
+​Wilfred Ndidi (CDM)
+​Harry Winks (CM)
+​Facundo Buonanotte (CAM)
+​Abdul Fatawu (RW)
+​Stephy Mavididi (LW)
+​Jamie Vardy (ST, C)
+​[TEAM: SOUTHAMPTON]
+COLOR: #D10A11 / #FFFFFF
+SQUAD:
+​Aaron Ramsdale (GK)
+​Jan Bednarek (CB, C)
+​Taylor Harwood-Bellis (CB)
+​Ryan Manning (LB)
+​Yukinari Sugawara (RB)
+​Flynn Downes (CDM)
+​Mateus Fernandes (CM)
+​Adam Lallana (CAM)
+​Tyler Dibling (RW)
+​Ryan Fraser (LW)
+​Cameron Archer (ST)
+​[TEAM: IPSWICH TOWN]
+COLOR: #003399 / #FFFFFF
+SQUAD:
+​Arijanet Muric (GK)
+​Dara O'Shea (CB)
+​Jacob Greaves (CB)
+​Leif Davis (LB)
+​Axel Tuanzebe (RB)
+​Sam Morsy (CDM, C)
+​Kalvin Phillips (CM)
+​Omari Hutchinson (CAM)
+​Chiedozie Ogbene (RW)
+​Sammie Szmodics (LW)
+​Liam Delap (ST)
+​[TEAM: NOTTINGHAM FOREST]
+COLOR: #DD0000 / #FFFFFF
+SQUAD:
+​Matz Sels (GK)
+​Murillo (CB)
+​Nikola Milenković (CB)
+​Álex Moreno (LB)
+​Neco Williams (RB)
+​Ibrahim Sangaré (CDM)
+​Elliot Anderson (CM)
+​Morgan Gibbs-White (CAM, C)
+​Anthony Elanga (RW)
+​Callum Hudson-Odoi (LW)
+​Chris Wood (ST)
+​// ==========================================
+// 3. SPAIN - LALIGA (20 TEAMS)
+// ==========================================
+​[LEAGUE: SPAIN - LALIGA 26/27]
+​[TEAM: REAL MADRID]
+COLOR: #FFFFFF / #002B49
+SQUAD:
+​Thibaut Courtois (GK)
+​Éder Militão (CB)
+​Antonio Rüdiger (CB)
+​Ferland Mendy (LB)
+​Dani Carvajal (RB, C)
+​Aurélien Tchouaméni (CDM)
+​Federico Valverde (CM)
+​Jude Bellingham (CAM)
+​Arda Güler (CAM)
+​Rodrygo (RW)
+​Vinícius Júnior (LW)
+​Kylian Mbappé (ST)
+​[TEAM: BARCELONA]
+COLOR: #004D98 / #A50044
+SQUAD:
+​Marc-André ter Stegen (GK, C)
+​Ronald Araújo (CB)
+​Pau Cubarsí (CB)
+​Alejandro Balde (LB)
+​Jules Koundé (RB)
+​Frenkie de Jong (CM)
+​Pedri (CM)
+​Dani Olmo (CAM)
+​Lamine Yamal (RW)
+​Raphinha (LW)
+​Robert Lewandowski (ST)
+​[TEAM: ATLETICO MADRID]
+COLOR: #CB3524 / #FFFFFF
+SQUAD:
+​Jan Oblak (GK)
+​Robin Le Normand (CB)
+​José María Giménez (CB)
+​Reinildo Mandava (LB)
+​Marcos Llorente (RB)
+​Koke (CDM, C)
+​Rodrigo De Paul (CM)
+​Conor Gallagher (CM)
+​Antoine Griezmann (CAM)
+​Julián Álvarez (ST)
+​Alexander Sørloth (ST)
+​[TEAM: ATHLETIC BILBAO]
+COLOR: #EE2524 / #FFFFFF
+SQUAD:
+​Unai Simón (GK)
+​Dani Vivian (CB)
+​Aitor Paredes (CB)
+​Yuri Berchiche (LB)
+​Oscar de Marcos (RB, C)
+​Beñat Prados (CM)
+​Mikel Jauregizar (CM)
+​Oihan Sancet (CAM)
+​Iñaki Williams (RW)
+​Nico Williams (LW)
+​Gorka Guruzeta (ST)
+​[TEAM: REAL SOCIEDAD]
+COLOR: #0067B1 / #FFFFFF
+SQUAD:
+​Álex Remiro (GK)
+​Igor Zubeldia (CB)
+​Nayef Aguerd (CB)
+​Javi López (LB)
+​Jon Aramburu (RB)
+​Martín Zubimendi (CDM)
+​Luka Sučić (CM)
+​Brais Méndez (CAM)
+​Takefusa Kubo (RW)
+​Ander Barrenetxea (LW)
+​Mikel Oyarzabal (ST, C)
+​[TEAM: VILLARREAL]
+COLOR: #FFE600 / #00529F
+SQUAD:
+​Diego Conde (GK)
+​Raúl Albiol (CB, C)
+​Logan Costa (CB)
+​Sergi Cardona (LB)
+​Kiko Femenía (RB)
+​Dani Parejo (CM)
+​Pape Gueye (CM)
+​Álex Baena (LM)
+​Yéremy Pino (RM)
+​Ayoze Pérez (ST)
+​Thierno Barry (ST)
+​[TEAM: REAL BETIS]
+COLOR: #008752 / #FFFFFF
+SQUAD:
+​Rui Silva (GK)
+​Natan (CB)
+​Diego Llorente (CB)
+​Romain Perraud (LB)
+​Héctor Bellerín (RB)
+​Marc Roca (CDM)
+​Johnny Cardoso (CM)
+​Giovani Lo Celso (CAM)
+​Pablo Fornals (RW)
+​Abde Ezzalzouli (LW)
+​Vitor Roque (ST)
+​[TEAM: SEVILLA FC]
+COLOR: #FFFFFF / #D4002A
+SQUAD:
+​Ørjan Nyland (GK)
+​Loïc Badé (CB)
+​Tanguy Nianzou (CB)
+​Adrià Pedrosa (LB)
+​José Ángel Carmona (RB)
+​Nemanja Gudelj (CDM, C)
+​Albert Sambi Lokonga (CM)
+​Saúl Ñíguez (CM)
+​Dodi Lukebakio (RW)
+​Chidera Ejuke (LW)
+​Isaac Romero (ST)
+​[TEAM: VALENCIA CF]
+COLOR: #FFFFFF / #000000
+SQUAD:
+​Giorgi Mamardashvili (GK)
+​Cristhian Mosquera (CB)
+​César Tárrega (CB)
+​José Gayà (LB, C)
+​Thierry Correia (RB)
+​Pepelu (CDM)
+​Javi Guerra (CM)
+​André Almeida (CAM)
+​Diego López (RW)
+​Luis Rioja (LW)
+​Hugo Duro (ST)
+​[TEAM: GIRONA FC]
+COLOR: #CC0000 / #FFFFFF
+SQUAD:
+​Paulo Gazzaniga (GK)
+​Daley Blind (CB)
+​David López (CB)
+​Miguel Gutiérrez (LB)
+​Arnau Martínez (RB)
+​Oriol Romeu (CDM)
+​Yangel Herrera (CM)
+​Viktor Tsygankov (RW)
+​Bryan Gil (LW)
+​Yaser Asprilla (CAM)
+​Bojan Miovski (ST)
+​[TEAM: CELTA VIGO]
+COLOR: #8CB8E6 / #FFFFFF
+SQUAD:
+​Vicente Guaita (GK)
+​Carl Starfelt (CB)
+​Jailson (CB)
+​Mihailo Ristić (LB)
+​Oscar Mingueza (RB)
+​Fran Beltrán (CDM)
+​Ilaix Moriba (CM)
+​Iago Aspas (CAM, C)
+​Jonathan Bamba (LW)
+​Pablo Durán (RW)
+​Borja Iglesias (ST)
+​[TEAM: OSASUNA]
+COLOR: #D20A11 / #001A4A
+SQUAD:
+​Sergio Herrera (GK)
+​Alejandro Catena (CB)
+​Enzo Boyomo (CB)
+​Abel Bretones (LB)
+​Jesús Areso (RB)
+​Lucas Torró (CDM)
+​Jon Moncayola (CM)
+​Aimar Oroz (CAM)
+​Rubén García (RW)
+​Bryan Zaragoza (LW)
+​Ante Budimir (ST, C)
+​[TEAM: RAYO VALLECANO]
+COLOR: #FFFFFF / #D20A11
+SQUAD:
+​Augusto Batalla (GK)
+​Florian Lejeune (CB)
+​Abdul Mumin (CB)
+​Pep Chavarría (LB)
+​Andrei Rațiu (RB)
+​Óscar Valentín (CDM, C)
+​Unai López (CM)
+​James Rodríguez (CAM)
+​Jorge de Frutos (RW)
+​Álvaro García (LW)
+​Sergio Camello (ST)
+​[TEAM: MALLORCA]
+COLOR: #E20613 / #000000
+SQUAD:
+​Dominik Greif (GK)
+​Antonio Raíllo (CB, C)
+​Martin Valjent (CB)
+​Johan Mojica (LB)
+​Pablo Maffeo (RB)
+​Omar Mascarell (CDM)
+​Samu Costa (CM)
+​Sergi Darder (CAM)
+​Robert Navarro (RW)
+​Dani Rodríguez (LW)
+​Vedat Muriqi (ST)
+​[TEAM: LAS PALMAS]
+COLOR: #FFF100 / #00529F
+SQUAD:
+​Jasper Cillessen (GK)
+​Álex Suárez (CB)
+​Mika Mármol (CB)
+​Álex Muñoz (LB)
+​Viti Rozada (RB)
+​José Campaña (CDM)
+​Kirian Rodríguez (CM, C)
+​Alberto Moleiro (CAM)
+​Sandro Ramírez (RW)
+​Manu Fuster (LW)
+​Fábio Silva (ST)
+​[TEAM: ESPANYOL]
+COLOR: #0072CE / #FFFFFF
+SQUAD:
+​Joan García (GK)
+​Marash Kumbulla (CB)
+​Leandro Cabrera (CB, C)
+​Brian Oliván (LB)
+​Omar El Hilali (RB)
+​Alex Král (CDM)
+​Pol Lozano (CM)
+​Javi Puado (CAM)
+​Álvaro Tejero (RW)
+​Jofre Carreras (LW)
+​Alejo Véliz (ST)
+​[TEAM: DEPORTIVO ALAVÉS]
+COLOR: #00529F / #FFFFFF
+SQUAD:
+​Antonio Sivera (GK, C)
+​Abdel Abqar (CB)
+​Aleksandar Sedlar (CB)
+​Manu Sánchez (LB)
+​Nahuel Tenaglia (RB)
+​Antonio Blanco (CDM)
+​Joan Jordán (CM)
+​Jon Guridi (CAM)
+​Carlos Vicente (RW)
+​Tomas Conechny (LW)
+​Kike García (ST)
+​[TEAM: GETAFE CF]
+COLOR: #00529F / #FFFFFF
+SQUAD:
+​David Soria (GK)
+​Djené Dakonam (CB, C)
+​Omar Alderete (CB)
+​Diego Rico (LB)
+​Juan Iglesias (RB)
+​Luis Milla (CDM)
+​Mauro Arambarri (CM)
+​Carles Pérez (RW)
+​Álex Sola (LW)
+​Bertuğ Yıldırım (ST)
+​Borja Mayoral (ST)
+​[TEAM: REAL VALLADOLID]
+COLOR: #5A2A82 / #FFFFFF
+SQUAD:
+​Karl Hein (GK)
+​Javi Sánchez (CB, C)
+​Cenk Özkacar (CB)
+​Lucas Rosa (LB)
+​Luis Pérez (RB)
+​Eray Cömert (CDM)
+​Kike Pérez (CM)
+​Selim Amallah (CAM)
+​Iván Sánchez (RW)
+​Raul Moro (LW)
+​Mamadou Sylla (ST)
+​[TEAM: CD LEGANÉS]
+COLOR: #00529F / #FFFFFF
+SQUAD:
+​Marko Dmitrović (GK)
+​Renato Tapia (CB)
+​Sergio González (CB, C)
+​Javi Hernández (LB)
+​Valentin Rosier (RB)
+​Yvan Neyou (CDM)
+​Seydouba Cissé (CM)
+​Roberto López (CAM)
+​Juan Cruz (RW)
+​Munir El Haddadi (LW)
+​Sébastien Haller (ST)
+​// ==========================================
+// 4. GERMANY - BUNDESLIGA (18 TEAMS)
+// ==========================================
+​[LEAGUE: GERMANY - BUNDESLIGA 26/27]
+​[TEAM: BAYERN MUNICH]
+COLOR: #DC052D / #FFFFFF
+SQUAD:
+​Manuel Neuer (GK, C)
+​Dayot Upamecano (CB)
+​Kim Min-jae (CB)
+​Alphonso Davies (LB)
+​Joshua Kimmich (RB)
+​João Palhinha (CDM)
+​Aleksandar Pavlović (CM)
+​Jamal Musiala (CAM)
+​Michael Olise (RW)
+​Serge Gnabry (LW)
+​Harry Kane (ST)
+​[TEAM: BAYER LEVERKUSEN]
+COLOR: #E32219 / #000000
+SQUAD:
+​Lukáš Hrádecký (GK, C)
+​Jonathan Tah (CB)
+​Edmond Tapsoba (CB)
+​Alejandro Grimaldo (LB)
+​Jeremie Frimpong (RB)
+​Granit Xhaka (CM)
+​Exequiel Palacios (CM)
+​Florian Wirtz (CAM)
+​Martin Terrier (LW)
+​Jonas Hofmann (RW)
+​Victor Boniface (ST)
+​[TEAM: BORUSSIA DORTMUND]
+COLOR: #FDE100 / #000000
+SQUAD:
+​Gregor Kobel (GK)
+​Nico Schlotterbeck (CB)
+​Waldemar Anton (CB)
+​Ramy Bensebaini (LB)
+​Julian Ryerson (RB)
+​Emre Can (CDM, C)
+​Pascal Groß (CM)
+​Julian Brandt (CAM)
+​Donyell Malen (RW)
+​Jamie Gittens (LW)
+​Serhou Guirassy (ST)
+​[TEAM: RB LEIPZIG]
+COLOR: #DD013F / #FFFFFF
+SQUAD:
+​Péter Gulácsi (GK)
+​Willi Orbán (CB, C)
+​Castello Lukeba (CB)
+​David Raum (LB)
+​Lutsharel Geertruida (RB)
+​Amadou Haidara (CM)
+​Arthur Vermeeren (CM)
+​Xavi Simons (CAM)
+​Christoph Baumgartner (CAM)
+​Loïs Openda (ST)
+​Benjamin Šeško (ST)
+​[TEAM: EINTRACHT FRANKFURT]
+COLOR: #E1000F / #000000
+SQUAD:
+​Kevin Trapp (GK, C)
+​Robin Koch (CB)
+​Tuta (CB)
+​Arthur Theate (LB)
+​Rasmus Kristensen (RB)
+​Ellyes Skhiri (CDM)
+​Hugo Larsson (CM)
+​Mario Götze (CAM)
+​Fares Chaibi (LW)
+​Omar Marmoush (ST)
+​Hugo Ekitike (ST)
+​[TEAM: VfB STUTTGART]
+COLOR: #E32219 / #FFFFFF
+SQUAD:
+​Alexander Nübel (GK)
+​Jeff Chabot (CB)
+​Anthony Rouault (CB)
+​Maximilian Mittelstädt (LB)
+​Josha Vagnoman (RB)
+​Atakan Karazor (CDM, C)
+​Angelo Stiller (CM)
+​Enzo Millot (CAM)
+​Chris Führich (LW)
+​Jamie Leweling (RW)
+​Ermedin Demirović (ST)
+​[TEAM: VfL WOLFSBURG]
+COLOR: #65B32E / #FFFFFF
+SQUAD:
+​Kamil Grabara (GK)
+​Sebastiaan Bornauw (CB)
+​Denis Vavro (CB)
+​Joakim Mæhle (LB)
+​Ridle Baku (RB)
+​Maximilian Arnold (CDM, C)
+​Salih Özcan (CM)
+​Lovro Majer (CAM)
+​Patrick Wimmer (RW)
+​Tiago Tomás (LW)
+​Mohamed Amoura (ST)
+​[TEAM: BORUSSIA MÖNCHENGLADBACH]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Jonas Omlin (GK, C)
+​Ko Itakura (CB)
+​Nico Elvedi (CB)
+​Luca Netz (LB)
+​Joe Scally (RB)
+​Julian Weigl (CDM)
+​Rocco Reitz (CM)
+​Kevin Stöger (CAM)
+​Franck Honorat (RW)
+​Alassane Pléa (LW)
+​Tim Kleindienst (ST)
+​[TEAM: SC FREIBURG]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Noah Atubolu (GK)
+​Matthias Ginter (CB)
+​Philipp Lienhart (CB)
+​Christian Günter (LB, C)
+​Lukas Kübler (RB)
+​Maximilian Eggestein (CDM)
+​Patrick Osterhage (CM)
+​Vincenzo Grifo (LM)
+​Ritsu Doan (RM)
+​Merlin Röhl (CAM)
+​Junior Adamu (ST)
+​[TEAM: TSG HOFFENHEIM]
+COLOR: #1C63B7 / #FFFFFF
+SQUAD:
+​Oliver Baumann (GK, C)
+​Ozan Kabak (CB)
+​Kevin Akpoguma (CB)
+​Alexander Prass (LB)
+​Pavel Kadeřábek (RB)
+​Florian Grillitsch (CDM)
+​Anton Stach (CM)
+​Andrej Kramarić (CAM)
+​Marius Bülter (LW)
+​Adam Hložek (RW)
+​Mergim Berisha (ST)
+​[TEAM: WERDER BREMEN]
+COLOR: #008752 / #FFFFFF
+SQUAD:
+​Michael Zetterer (GK)
+​Marco Friedl (CB, C)
+​Amos Pieper (CB)
+​Felix Agu (LB)
+​Mitchell Weiser (RB)
+​Senne Lynen (CDM)
+​Jens Stage (CM)
+​Romano Schmid (CAM)
+​Justin Njinmah (RW)
+​Marco Grüll (LW)
+​Marvin Ducksch (ST)
+​[TEAM: FC AUGSBURG]
+COLOR: #BA1A1D / #008752
+SQUAD:
+​Nediljko Labrović (GK)
+​Jeffrey Gouweleeuw (CB, C)
+​Keven Schlotterbeck (CB)
+​Dimitrios Giannoulis (LB)
+​Marius Wolf (RB)
+​Kristijan Jakić (CDM)
+​Elvis Rexhbecaj (CM)
+​Arne Maier (CAM)
+​Samuel Essende (ST)
+​Phillip Tietz (ST)
+​Alexis Claude-Maurice (LW)
+​[TEAM: MAINZ 05]
+COLOR: #E2001A / #FFFFFF
+SQUAD:
+​Robin Zentner (GK)
+​Stefan Bell (CB)
+​Dominik Kohr (CB)
+​Anthony Caci (LB)
+​Silvan Widmer (RB, C)
+​Kaishu Sano (CDM)
+​Nadiem Amiri (CM)
+​Lee Jae-sung (CAM)
+​Paul Nebel (RW)
+​Hyun-seok Hong (LW)
+​Jonathan Burkardt (ST)
+​[TEAM: UNION BERLIN]
+COLOR: #D00027 / #FFF100
+SQUAD:
+​Frederik Rønnow (GK)
+​Danilho Doekhi (CB)
+​Diogo Leite (CB)
+​Tom Rothe (LB)
+​Christopher Trimmel (RB, C)
+​Rani Khedira (CDM)
+​Lucas Tousart (CM)
+​László Bénes (CAM)
+​Jeong Woo-yeong (RW)
+​Yorbe Vertessen (LW)
+​Benedict Hollerbach (ST)
+​[TEAM: FC ST. PAULI]
+COLOR: #5B3A29 / #FFFFFF
+SQUAD:
+​Nikola Vasilj (GK)
+​Eric Smith (CB)
+​Hauke Wahl (CB)
+​Philipp Treu (LB)
+​Manolis Saliakas (RB)
+​Jackson Irvine (CDM, C)
+​Robert Wagner (CM)
+​Connor Metcalfe (CAM)
+​Morgan Guilavogui (RW)
+​Oladapo Afolayan (LW)
+​Johannes Eggestein (ST)
+​[TEAM: HOLSTEIN KIEL]
+COLOR: #003399 / #E30613
+SQUAD:
+​Timon Weiner (GK)
+​Patrick Erras (CB)
+​Carl Johansson (CB)
+​Timo Becker (RB)
+​Marco Komenda (LB)
+​Nicolai Remberg (CDM)
+​Lewis Holtby (CM, C)
+​Steven Skrzybski (CAM)
+​Shuto Machino (ST)
+​Fiete Arp (ST)
+​Alexander Bernhardsson (RW)
+​[TEAM: VfL BOCHUM]
+COLOR: #005A9C / #FFFFFF
+SQUAD:
+​Patrick Drewes (GK)
+​Ivan Ordets (CB)
+​Erhan Mašović (CB)
+​Maximilian Wittek (LB)
+​Felix Passlack (RB)
+​Anthony Losilla (CDM, C)
+​Ibrahima Sissoko (CM)
+​Matus Bero (CM)
+​Dani de Wit (CAM)
+​Moritz Broschinski (ST)
+​Philipp Hofmann (ST)
+​[TEAM: FC HEIDENHEIM]
+COLOR: #E2001A / #003399
+SQUAD:
+​Kevin Müller (GK)
+​Patrick Mainka (CB, C)
+​Benedikt Gimber (CB)
+​Jonas Föhrenbach (LB)
+​Omar Traoré (RB)
+​Lennard Maloney (CDM)
+​Jan Schöppner (CM)
+​Paul Wanner (CAM)
+​Leo Scienza (LW)
+​Adrian Beck (RW)
+​Marvin Pieringer (ST)
+​// ==========================================
+// 5. FRANCE - LIGUE 1 (18 TEAMS)
+// ==========================================
+​[LEAGUE: FRANCE - LIGUE 1 26/27]
+​[TEAM: PARIS SAINT-GERMAIN]
+COLOR: #002395 / #ED2939
+SQUAD:
+​Gianluigi Donnarumma (GK)
+​Marquinhos (CB, C)
+​Willian Pacho (CB)
+​Nuno Mendes (LB)
+​Achraf Hakimi (RB)
+​Vitinha (CM)
+​João Neves (CM)
+​Warren Zaïre-Emery (CM)
+​Ousmane Dembélé (RW)
+​Bradley Barcola (LW)
+​Randal Kolo Muani (ST)
+​[TEAM: OLYMPIQUE DE MARSEILLE]
+COLOR: #00A3E0 / #FFFFFF
+SQUAD:
+​Gerónimo Rulli (GK)
+​Leonardo Balerdi (CB, C)
+​Derek Cornelius (CB)
+​Quentin Merlin (LB)
+​Michael Murillo (RB)
+​Pierre-Emile Højbjerg (CDM)
+​Geoffrey Kondogbia (CM)
+​Amine Harit (CAM)
+​Mason Greenwood (RW)
+​Luis Henrique (LW)
+​Elye Wahi (ST)
+​[TEAM: AS MONACO]
+COLOR: #E20613 / #FFFFFF
+SQUAD:
+​Radosław Majecki (GK)
+​Thilo Kehrer (CB)
+​Wilfried Singo (CB)
+​Caio Henrique (LB)
+​Vanderson (RB)
+​Denis Zakaria (CDM, C)
+​Lamine Camara (CM)
+​Aleksandr Golovin (CAM)
+​Maghnes Akliouche (RW)
+​Eliesse Ben Seghir (LW)
+​Breel Embolo (ST)
+​[TEAM: OLYMPIQUE LYONNAIS]
+COLOR: #002F6C / #DA291C
+SQUAD:
+​Lucas Perri (GK)
+​Moussa Niakhaté (CB)
+​Duje Ćaleta-Car (CB)
+​Nicolás Tagliafico (LB)
+​Ainsley Maitland-Niles (RB)
+​Nemanja Matić (CDM)
+​Corentin Tolisso (CM)
+​Rayan Cherki (CAM)
+​Malick Fofana (LW)
+​Said Benrahma (RW)
+​Alexandre Lacazette (ST, C)
+​[TEAM: LILLE OSC]
+COLOR: #E20613 / #002395
+SQUAD:
+​Lucas Chevalier (GK)
+​Bafodé Diakité (CB)
+​Aïssa Mandi (CB)
+​Gabriel Gudmundsson (LB)
+​Tiago Santos (RB)
+​Benjamin André (CDM, C)
+​Angel Gomes (CM)
+​Hakon Arnar Haraldsson (CAM)
+​Edon Zhegrova (RW)
+​Osame Sahraoui (LW)
+​Jonathan David (ST)
+​[TEAM: OGC NICE]
+COLOR: #000000 / #E20613
+SQUAD:
+​Marcin Bułka (GK)
+​Dante (CB, C)
+​Moïse Bombito (CB)
+​Melvin Bard (LB)
+​Jonathan Clauss (RB)
+​Youssouf Ndayishimiye (CDM)
+​Pablo Rosario (CM)
+​Tanguy Ndombele (CM)
+​Jeremie Boga (LW)
+​Mohamed-Ali Cho (RW)
+​Youssoufa Moukoko (ST)
+​[TEAM: RC LENS]
+COLOR: #FF0000 / #FFF100
+SQUAD:
+​Brice Samba (GK, C)
+​Kevin Danso (CB)
+​Facundo Medina (CB)
+​Deiver Machado (LB)
+​Przemysław Frankowski (RB)
+​Andy Diouf (CM)
+​Adrien Thomasson (CM)
+​Anass Zaroury (CAM)
+​Florian Sotoca (RW)
+​Wesley Saïd (LW)
+​M'Bala Nzola (ST)
+​[TEAM: Stade Rennais]
+COLOR: #E20613 / #000000
+SQUAD:
+​Steve Mandanda (GK, C)
+​Leo Østigård (CB)
+​Christopher Wooh (CB)
+​Adrien Truffert (LB)
+​Lorenz Assignon (RB)
+​Baptiste Santamaria (CDM)
+​Glen Kamara (CM)
+​Ludovic Blas (CAM)
+​Albert Grønbæk (LW)
+​Carlos Andrés Gómez (RW)
+​Arnaud Kalimuendo (ST)
+​[TEAM: STADE DE REIMS]
+COLOR: #E20613 / #FFFFFF
+SQUAD:
+​Yehvann Diouf (GK)
+​Emmanuel Agbadou (CB, C)
+​Joseph Okumu (CB)
+​Sergio Akieme (LB)
+​Aurelio Buta (RB)
+​Teddy Teuma (CM)
+​Marshall Munetsi (CM)
+​Valentin Atangana (CDM)
+​Junya Ito (RW)
+​Keito Nakamura (LW)
+​Oumar Diakité (ST)
+​[TEAM: STRASBOURG]
+COLOR: #00A3E0 / #FFFFFF
+SQUAD:
+​Djordje Petrović (GK)
+​Saïdou Sow (CB)
+​Mamadou Sarr (CB)
+​Caleb Wiley (LB)
+​Guela Doué (RB)
+​Andrey Santos (CDM)
+​Habib Diarra (CM, C)
+​Sebastian Nanasi (CAM)
+​Dilane Bakwa (RW)
+​Diego Moreira (LW)
+​Emanuel Emegha (ST)
+​[TEAM: TULOUSE FC]
+COLOR: #5A2A82 / #FFFFFF
+SQUAD:
+​Guillaume Restes (GK)
+​Rasmus Nicolaisen (CB)
+​Charlie Cresswell (CB)
+​Gabriel Suazo (LB)
+​Djibril Sidibé (RB)
+​Vincent Sierro (CM, C)
+​Cristian Cásseres Jr (CM)
+​Zakaria Aboukhlal (RW)
+​Aron Dønnum (LW)
+​Yann Gboho (CAM)
+​Frank Magri (ST)
+​[TEAM: MONTPELLIER HSC]
+COLOR: #002395 / #F37021
+SQUAD:
+​Benjamin Lecomte (GK)
+​Becir Omeragic (CB)
+​Kiki Kouyaté (CB)
+​Issiaga Sylla (LB)
+​Falaye Sacko (RB)
+​Joris Chotard (CDM)
+​Téji Savanier (CAM, C)
+​Jordan Ferri (CM)
+​Arnaud Nordin (RW)
+​Tanguy Coulibaly (LW)
+​Akor Adams (ST)
+​[TEAM: FC NANTES]
+COLOR: #FFF100 / #008752
+SQUAD:
+​Alban Lafont (GK)
+​Jean-Charles Castelletto (CB, C)
+​Nicolas Pallois (CB)
+​Nicolas Cozza (LB)
+​Kelvin Amian (RB)
+​Pedro Chirivella (CDM)
+​Douglas Augusto (CM)
+​Johann Lepenant (CM)
+​Sorba Thomas (RW)
+​Moses Simon (LW)
+​Mostafa Mohamed (ST)
+​[TEAM: BREST]
+COLOR: #E20613 / #FFFFFF
+SQUAD:
+​Marco Bizot (GK)
+​Brendan Chardonnet (CB, C)
+​Soumaïla Coulibaly (LB)
+​Kenny Lala (RB)
+​Massadio Haïdara (LB)
+​Pierre Lees-Melou (CDM)
+​Mahdi Camara (CM)
+​Hugo Magnetti (CM)
+​Romain Del Castillo (RW)
+​Abdallah Sima (LW)
+​Ludovic Ajorque (ST)
+​[TEAM: STADE BRESTOIS / AS SAINT-ÉTIENNE]
+COLOR: #008752 / #FFFFFF
+SQUAD:
+​Gautier Larsonneur (GK)
+​Mickaël Nadé (CB)
+​Dylan Batubinsika (CB)
+​Yvann Maçon (LB)
+​Dennis Appiah (RB)
+​Pierre Ekwah (CDM)
+​Mathis Amougou (CM)
+​Aïmen Moueffek (CM)
+​Zuriko Davitashvili (LW)
+​Augustine Boakye (RW)
+​Ibrahim Sissoko (ST)
+​[TEAM: AJ AUXERRE]
+COLOR: #FFFFFF / #003399
+SQUAD:
+​Donovan Léon (GK)
+​Jubal (CB, C)
+​Gabriel Osho (CB)
+​Gideon Mensah (LB)
+​Paul Joly (RB)
+​Elisha Owusu (CDM)
+​Assane Dioussé (CM)
+​Gaëtan Perrin (CAM)
+​Lasso Coulibaly (RW)
+​Lassine Sinayoko (LW)
+​Theo Bair (ST)
+​[TEAM: SCO ANGERS]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Yahia Fofana (GK)
+​Cédric Hountondji (CB)
+​Emmanuel Biumla (CB)
+​Florent Hanin (LB)
+​Carlens Arcus (RB)
+​Jean-Eudes Aholou (CDM)
+​Harona Belkhdim (CM)
+​Himad Abdelli (CAM, C)
+​Jim Allevinah (RW)
+​Farid El Melali (LW)
+​Esteban Lepaul (ST)
+​[TEAM: LE HAVRE AC]
+COLOR: #003399 / #8CB8E6
+SQUAD:
+​Arthur Desmas (GK)
+​Arouna Sangante (CB, C)
+​Gautier Lloris (CB)
+​Christopher Operi (LB)
+​Loïc Négo (RB)
+​Abdoulaye Touré (CDM)
+​Yassine Kechta (CM)
+​Oussama Targhalline (CM)
+​Josué Casimir (RW)
+​Antoine Joujou (LW)
+​Emmanuel Sabbi (ST)
+​// ==========================================
+// 6. PORTUGAL - LIGA PORTUGAL (18 TEAMS)
+// ==========================================
+​[LEAGUE: PORTUGAL - LIGA PORTUGAL 26/27]
+​[TEAM: SPORTING CP]
+COLOR: #008040 / #FFFFFF
+SQUAD:
+​Franco Israel (GK)
+​Ousmane Diomande (CB)
+​Zeno Debast (CB)
+​Gonçalo Inácio (CB)
+​Nuno Santos (LB)
+​Geovany Quenda (RB)
+​Morten Hjulmand (CDM, C)
+​Hidemasa Morita (CM)
+​Francisco Trincão (RW)
+​Pedro Gonçalves (LW)
+​Viktor Gyökeres (ST)
+​[TEAM: SL BENFICA]
+COLOR: #E30613 / #FFFFFF
+SQUAD:
+​Anatoliy Trubin (GK)
+​Nicolás Otamendi (CB, C)
+​António Silva (CB)
+​Álvaro Carreras (LB)
+​Alexander Bah (RB)
+​Florentino Luís (CDM)
+​Fredrik Aursnes (CM)
+​Orkun Kökçü (CAM)
+​Ángel Di María (RW)
+​Kerem Aktürkoğlu (LW)
+​Vangelis Pavlidis (ST)
+​[TEAM: FC PORTO]
+COLOR: #00529F / #FFFFFF
+SQUAD:
+​Diogo Costa (GK, C)
+​Zé Pedro (CB)
+​Nehuén Pérez (CB)
+​Francisco Moura (LB)
+​Martim Fernandes (RB)
+​Alan Varela (CDM)
+​Stephen Eustáquio (CM)
+​Nico González (CM)
+​Pepê (RW)
+​Galeno (LW)
+​Samu Omorodion (ST)
+​[TEAM: SC BRAGA]
+COLOR: #E30613 / #FFFFFF
+SQUAD:
+​Matheus (GK)
+​Sikou Niakaté (CB)
+​Bright Arrey-Mbi (CB)
+​Cristian Borja (LB)
+​Víctor Gómez (RB)
+​Vitor Carvalho (CDM)
+​Zalazar (CM)
+​Ricardo Horta (CAM, C)
+​Roger Fernandes (RW)
+​Bruma (LW)
+​Amine El Ouazzani (ST)
+​[TEAM: VITORIA GUIMARAES]
+COLOR: #FFFFFF / #000000
+SQUAD:
+​Bruno Varela (GK, C)
+​Toni Borevković (CB)
+​Mikel Villanueva (CB)
+​João Mendes (LB)
+​Bruno Gaspar (RB)
+​Tomás Händel (CDM)
+​Tiago Silva (CM)
+​Nuno Santos (CAM)
+​Kaio César (RW)
+​Telmo Arcanjo (LW)
+​Nélson Oliveira (ST)
+​[TEAM: FAMALICAO]
+COLOR: #00529F / #FFFFFF
+SQUAD:
+​Ivan Zlobin (GK)
+​Enea Mihaj (CB)
+​Justin de Haas (CB)
+​Rafa Soares (LB)
+​Lucas Calegari (RB)
+​Mirko Topić (CDM)
+​Zaydou Youssouf (CM)
+​Gustavo Sá (CAM)
+​Sorriso (RW)
+​Rochinha (LW)
+​Mario González (ST)
+​[TEAM: SANTA CLARA]
+COLOR: #E30613 / #FFFFFF
+SQUAD:
+​Gabriel Batista (GK)
+​Frederico Venâncio (CB)
+​Luís Rocha (CB, C)
+​MT (LB)
+​Diogo Calila (RB)
+​Adriano Firmino (CDM)
+​Pedro Ferreira (CM)
+​Bruno Almeida (CAM)
+​Gabriel Silva (RW)
+​Vinícius Lopes (LW)
+​Alisson Safira (ST)
+​[TEAM: MOREIRENSE]
+COLOR: #008040 / #FFFFFF
+SQUAD:
+​Caio Secco (GK)
+​Maracás (CB)
+​Carlos Ponck (CB)
+​Godfried Frimpong (LB)
+​Dinis Pinto (RB)
+​Lawrence Ofori (CDM)
+​Rúben Ismael (CM)
+​Alan (CAM)
+​Madson (RW)
+​Jeremy Antonisse (LW)
+​Luís Asué (ST)
+​[TEAM: GIL VICENTE]
+COLOR: #E30613 / #00529F
+SQUAD:
+​Andrew (GK)
+​Rúben Fernandes (CB, C)
+​Jonathan Buatu (CB)
+​Sandro Cruz (LB)
+​Zé Carlos (RB)
+​Mory Gbane (CDM)
+​Kanya Fujimoto (CM)
+​Santi García (CAM)
+​Murilo Souza (RW)
+​Félix Correia (LW)
+​Jorge Aguirre (ST)
+​[TEAM: AROUCA]
+COLOR: #FFF100 / #00529F
+SQUAD:
+​Nico Mantl (GK)
+​Boris Popović (CB)
+​Jose Fontán (CB)
+​Quaresma (LB)
+​Tiago Esgaio (RB)
+​David Simão (CDM, C)
+​Taichi Fukui (CM)
+​Morlaye Sylla (CAM)
+​Jason (RW)
+​Ivo Rodrigues (LW)
+​Henrique Araújo (ST)
+​[TEAM: RIO AVE]
+COLOR: #008040 / #FFFFFF
+SQUAD:
+​Jhonatan (GK)
+​Aderllan Santos (CB, C)
+​Patrick William (CB)
+​Omar Richards (LB)
+​Marios Vrousai (RB)
+​Amine Oudrhiri (CDM)
+​Brandon Aguilera (CM)
+​Martim Neto (CAM)
+​Kiko Bondoso (LW)
+​Ole Pohlmann (RW)
+​Clayton (ST)
+​[TEAM: BOAVISTA]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​César (GK)
+​Rodrigo Abascal (CB)
+​Vincent Sasso (CB)
+​Filipe Ferreira (LB)
+​Pedro Malheiro (RB)
+​Ibrahima Camará (CDM)
+​Ilija Vukotić (CM)
+​Miguel Reisinho (CAM)
+​Salvador Agra (RW, C)
+​Joel da Silva (LW)
+​Robert Boženík (ST)
+​[TEAM: ESTORIL PRAIA]
+COLOR: #FFF100 / #00529F
+SQUAD:
+​Joel Robles (GK)
+​Pedro Álvaro (CB)
+​Eliaquim Mangala (CB)
+​Pedro Amaral (LB)
+​Wagner Pina (RB)
+​Jandro Orellana (CDM)
+​Vinicius Zanocelo (CM)
+​Xeka (CM)
+​Yanis Begraoui (RW)
+​Fabrício Garcia (LW)
+​Alejandro Marqués (ST)
+​[TEAM: NACIONAL]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Lucas França (GK)
+​Zé Vitor (CB)
+​Ulisses (CB)
+​José Gomes (LB)
+​Gustavo García (RB)
+​Matheus Dias (CDM)
+​Luís Esteves (CM)
+​Daniel Penha (CAM)
+​Dudu (RW)
+​Nigel Thomas (LW)
+​Isaac (ST)
+​[TEAM: FARENSE]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Ricardo Velho (GK)
+​Lucas Áfrico (CB)
+​Marco Moreno (CB)
+​Derick Poloni (LB)
+​Pastor (RB)
+​Claudio Falcão (CDM)
+​Neto (CM, C)
+​Filipe Soares (CAM)
+​Elves Baldé (RW)
+​Alex Bermejo (LW)
+​Tomané (ST)
+​[TEAM: CASA PIA]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Patrick Sequeira (GK)
+​Vasco Fernandes (CB, C)
+​Nermin Zolotić (CB)
+​Leonardo Lelo (LB)
+​André Geraldes (RB)
+​Telasco Segovia (CDM)
+​Rafael Brito (CM)
+​Nuno Moreira (CAM)
+​Gaizka Larrazabal (RW)
+​Cassiano (ST)
+​Max Svensson (ST)
+​[TEAM: AVS FUTEBOL]
+COLOR: #E30613 / #008040
+SQUAD:
+​Guillermo Ochoa (GK)
+​Cristian Devenish (CB)
+​Baptiste Roux (CB)
+​Kiki Afonso (LB)
+​Fernando Fonseca (RB)
+​Gustavo Assunção (CDM)
+​Lucas Piazon (CM)
+​Lucas Piazon (CAM)
+​Issiaka Kamate (RW)
+​John Mercado (LW)
+​Nenê (ST, C)
+​[TEAM: ESTRELA AMADORA]
+COLOR: #E30613 / #008040
+SQUAD:
+​Bruno Brígido (GK, C)
+​Ferro (CB)
+​Issiar Dramé (CB)
+​Ruben Lima (LB)
+​Danilo Veiga (RB)
+​Igor Rossi (CDM)
+​Leo Cordeiro (CM)
+​Alan Ruiz (CAM)
+​Jovane Cabral (RW)
+​Nani (LW)
+​Rodrigo Pinho (ST)
+​// ==========================================
+// 7. NETHERLANDS - EREDIVISIE (18 TEAMS)
+// ==========================================
+​[LEAGUE: NETHERLANDS - EREDIVISIE 26/27]
+​[TEAM: AJAX]
+COLOR: #D2122E / #FFFFFF
+SQUAD:
+​Remko Pasveer (GK)
+​Josip Šutalo (CB)
+​Youri Baas (CB)
+​Jorrel Hato (LB)
+​Devyne Rensch (RB)
+​Jordan Henderson (CDM, C)
+​Kenneth Taylor (CM)
+​Davy Klaassen (CM)
+​Bertrand Traoré (RW)
+​Mika Godts (LW)
+​Wout Weghorst (ST)
+​[TEAM: PSV EINDHOVEN]
+COLOR: #FF0000 / #FFFFFF
+SQUAD:
+​Walter Benítez (GK)
+​Ryan Flamingo (CB)
+​Olivier Boscagli (CB)
+​Matteo Dams (LB)
+​Rick Karsdorp (RB)
+​Jerdy Schouten (CDM)
+​Joey Veerman (CM)
+​Guus Til (CAM)
+​Johan Bakayoko (RW)
+​Noa Lang (LW)
+​Luuk de Jong (ST, C)
+​[TEAM: FEYENOORD]
+COLOR: #FF0000 / #000000
+SQUAD:
+​Timon Wellenreuther (GK)
+​Gernot Trauner (CB, C)
+​Dávid Hancko (CB)
+​Gijs Smal (LB)
+​Givairo Read (RB)
+​In-beom Hwang (CM)
+​Quinten Timber (CM)
+​Antoni Milambo (CAM)
+​Anis Hadj Moussa (RW)
+​Igor Paixão (LW)
+​Santiago Giménez (ST)
+​[TEAM: AZ ALKMAAR]
+COLOR: #DA291C / #FFFFFF
+SQUAD:
+​Rome-Jayden Owusu-Oduro (GK)
+​Wouter Goes (CB)
+​Alexandre Penetra (CB)
+​David Møller Wolfe (LB)
+​Seiya Maikuma (RB)
+​Jordy Clasie (CDM, C)
+​Peer Koopmeiners (CM)
+​Sven Mijnans (CAM)
+​Ernest Poku (RW)
+​Ruben van Bommel (LW)
+​Troy Parrott (ST)
+​[TEAM: FC UTRECHT]
+COLOR: #DA291C / #FFFFFF
+SQUAD:
+​Vasilis Barkas (GK)
+​Mike van der Hoorn (CB)
+​Nick Viergever (CB, C)
+​Souffian El Karouani (LB)
+​Siebe Horemans (RB)
+​Alonzo Engwanda (CDM)
+​Oscar Fraulo (CM)
+​Victor Jensen (CAM)
+​Ole Romeny (RW)
+​Yoann Cathline (LW)
+​David Min (ST)
+​[TEAM: FC TWENTE]
+COLOR: #DA291C / #FFFFFF
+SQUAD:
+​Lars Unnerstall (GK)
+​Mees Hilgers (CB)
+​Max Bruns (CB)
+​Anass Salah-Eddine (LB)
+​Bart van Rooij (RB)
+​Ramiz Zerrouki (CDM)
+​Youri Regeer (CM)
+​Sem Steijn (CAM)
+​Daan Rots (RW)
+​Mitchell van Bergen (LW)
+​Sam Lammers (ST)
+​[TEAM: SC HEERENVEEN]
+COLOR: #0053A0 / #FFFFFF
+SQUAD:
+​Mickey van der Hart (GK)
+​Pawel Bochniewicz (CB, C)
+​Sam Kersten (LB)
+​Mats Köhlert (LB)
+​Oliver Braude (RB)
+​Espen van Ee (CDM)
+​Simon Olsson (CM)
+​Luuk Brouwers (CAM)
+​Jacob Trenskow (RW)
+​Ilias Sebaoui (LW)
+​Dimitris Rallis (ST)
+​[TEAM: SPARTA ROTTERDAM]
+COLOR: #DA291C / #FFFFFF
+SQUAD:
+​Nick Olij (GK)
+​Rick Meissen (CB)
+​Mike Eerdhuijzen (CB)
+​Patrick van Aanholt (LB)
+​Said Bakari (RB)
+​Julian Baas (CDM)
+​Arno Verschueren (CM)
+​Pelle Clement (CAM)
+​Camiel Neghli (RW)
+​Tobias Lauritsen (ST)
+​Charles-Andreas Brym (LW)
+​[TEAM: NEC NIJMEGEN]
+COLOR: #E20613 / #008752
+SQUAD:
+​Robin Roefs (GK)
+​Bram Nuytinck (CB, C)
+​Iván Márquez (CB)
+​Calvin Verdonk (LB)
+​Brayann Pereira (RB)
+​Mees Hoedemakers (CDM)
+​Dirk Proper (CM)
+​Vito van Crooij (RW)
+​Sontje Hansen (LW)
+​Sami Ouaissa (CAM)
+​Koki Ogawa (ST)
+​[TEAM: FORTUNA SITTARD]
+COLOR: #FFF100 / #008752
+SQUAD:
+​Mattijs Branderhorst (GK)
+​Rodrigo Guth (CB)
+​Shawn Adewoye (CB)
+​Mitchell Dijks (LB)
+​Ivo Pinto (RB, C)
+​Ryan Fosso (CDM)
+​Samuel Bastien (CM)
+​Alen Halilović (CAM)
+​Ezequiel Bullaude (RW)
+​Kristoffer Peterson (LW)
+​Makan Aïko (ST)
+​[TEAM: Go Ahead Eagles]
+COLOR: #DA291C / #FFF100
+SQUAD:
+​Jari De Busser (GK)
+​Gerrit Nauber (CB)
+​Joris Kramer (CB)
+​Mats Deijl (RB, C)
+​Aske Adelgaard (LB)
+​Evert Linthorst (CDM)
+​Enric Llansana (CM)
+​Jakob Breum (CAM)
+​Bobby Adekanye (RW)
+​Oliver Antman (LW)
+​Victor Edvardsen (ST)
+​[TEAM: PEC ZWOLLE]
+COLOR: #0053A0 / #FFFFFF
+SQUAD:
+​Jasper Schendelaar (GK)
+​Tristan Gooijer (CB)
+​Anselmo Garcia MacNulty (CB)
+​Damian van der Haar (LB)
+​Sherel Floranus (RB)
+​Ryan Thomas (CDM)
+​Davy van den Berg (CM, C)
+​Jamiro Monteiro (CAM)
+​Dylan Mbayo (RW)
+​Filip Krastev (LW)
+​Dylan Vente (ST)
+​[TEAM: HERACLES ALMELO]
+COLOR: #000000 / #FFFFFF
+SQUAD:
+​Fabian de Keijzer (GK)
+​Damon Mirani (CB)
+​Ivan Mesik (CB)
+​Ruben Roosken (LB)
+​Mimeirhel Benita (RB)
+​Daniel van Kaam (CDM)
+​Brian De Keersmaecker (CM, C)
+​Mario Engels (RW)
+​Bryan Limbombe (LW)
+​Suf Podgoreanu (CAM)
+​Luka Kulenovic (ST)
+​[TEAM: RKC WAALWIJK]
+COLOR: #FFF100 / #0053A0
+SQUAD:
+​Jeroen Houwen (GK)
+​Liam van Gelderen (CB)
+​Dario Van den Buijs (CB)
+​Aaron Meijers (LB, C)
+​Julian Lelieveld (RB)
+​Godfried Roemeratoe (CDM)
+​Tim van de Loo (CM)
+​Yassin Oukili (CM)
+​Richonell Margaret (RW)
+​Chris Lokesa (LW)
+​Oskar Zawada (ST)
+​[TEAM: FC GRONINGEN]
+COLOR: #008752 / #FFFFFF
+SQUAD:
+​Etienne Vaessen (GK)
+​Marco Rente (CB)
+​Thijmen Blokzijl (CB)
+​Wouter Prins (LB)
+​Leandro Bacuna (RB, C)
+​Stije Resink (CDM)
+​Johan Hove (CM)
+​Jorg Schreuders (CAM)
+​Romano Postema (RW)
+​Luciano Valente (LW)
+​Thom van Bergen (ST)
+​[TEAM: NAC BREDA]
+COLOR: #FFF100 / #000000
+SQUAD:
+​Daniel Bielica (GK)
+​Jan Van den Bergh (CB, C)
+​Leo Greiml (CB)
+​Boy Kemper (LB)
+​Cherrion Valerius (RB)
+​Fredrik Oldrup Jensen (CDM)
+​Maximilien Balard (CM)
+​Dominik Janosek (CAM)
+​Leo Sauer (LW)
+​El Elias (RW)
+​Kacper Kostorz (ST)
+​[TEAM: WILLEM II]
+COLOR: #DA291C / #003399
+SQUAD:
+​Thomas Didillon-Hödl (GK)
+​Raffael Behounek (CB)
+​Tommy St. Jago (CB)
+​Rob Nizet (LB)
+​Mickaël Tirpan (RB)
+​Jesse Bosch (CDM)
+​Ringo Meerveld (CM)
+​Cisse Sandra (CAM)
+​Nick Doodeman (RW)
+​Kian Vaesen (LW)
+​Amar Fatah (ST)
+​[TEAM: ALMERE CITY]
+COLOR: #DA291C / #000000
+SQUAD:
+​Nordin Bakker (GK)
+​Ricardo Visus (CB)
+​Theo Barbet (CB)
+​Vasilios Zagaritis (LB)
+​Hamdi Akujobi (RB)
+​Anas Tahiri (CDM)
+​Thom Haye (CM)
+​Alex Carbonell (CM)
+​Logan Delaurier-Chaubet (RW)
+​Junior Kadile (LW)
+​Thomas Robinet (ST, C)
+​// ==========================================
+// END OF COMPLETE DATABASE
+// ==========================================
